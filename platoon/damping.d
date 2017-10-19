@@ -4,6 +4,7 @@ gyrohdg    D  55  4  1
 course     D  14  4  1
 TW_speed   D  17  4  1
 TW_dirn    D  18  4  1
+Forestay   D  58  4  2
 
 ==========================================
 Parameters:

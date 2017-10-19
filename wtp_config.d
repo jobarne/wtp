@@ -2,7 +2,6 @@
 
 Dir platoon
 
-
 [Diagnostics]
 #can 1 3
 #can channel 0, device 0

@@ -1,7 +1,7 @@
 Channel 0
 Device 1
 
-Com 2 rs232 19200 N 8 1
+Com 2 RS232 19200 N 8 1
 
 Offset 0.0 
 Bow 52.0

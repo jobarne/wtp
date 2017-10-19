@@ -1,18 +1,14 @@
 #############
-# name Device ID //Prestart   Upwind   Reaching   Downwind
+# name Device ID //Prestart	Upwind	Reaching	Downwind
 #############
 
-[10/10]
+[1010]
 
-[20/20]
-mast1   1   91   91   91   91
-mast2   2   -1   32   32   32
-mast3   3   16   16   16   16
-mast4   4   34   34   34   34
-mast5   5   18   18   18   18
-mast6   6   89   89   89   89
-mast7   7   17   17   17   17
+[2020]
+mast4	4	-1	34	34	34
+mast5	5	165	165	167	167
+mast7	7	17/14	17/14	17/14	17/14
 
-[30/30]
+[3030]
 
-[40/40]
+[4040]

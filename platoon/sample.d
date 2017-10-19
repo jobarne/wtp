@@ -1,22 +1,22 @@
 #can channel, device id, analogue input, variable number, cal file, fil file, alarm file
 
 [analogue]
-MHU_A_B   0   4	   1    7  null.cal	   null.fil	null.alm
+gyro_dhl  0   0    1   52  gdheel.cal    gdheel.fil	  null.alm
+gyro_dpt  0   0    2   54  gdpitch.cal   gdpitch.fil  null.alm
+gyro_dyw  0   0    3   56  gdyaw.cal     gdyaw.fil	  null.alm
+
+rudder    0   0    4   49  rudder.cal    null.fil   null.alm
+
+MHU_A_B   0   4	   1    7  null.cal	     null.fil	null.alm
 MHU_A_G   0   4    2    6  null.cal      null.fil	null.alm
 MHU_A_R   0   4    3    5  null.cal      null.fil	null.alm
 
-gyro_dhl  0   0    1   52  gdheel.cal    gdheel.fil	null.alm
-gyro_dpt  0   0    2   54  gdpitch.cal   gdpitch.fil	null.alm
-gyro_dyw  0   0    3   56  gdyaw.cal     gdyaw.fil	null.alm
-
-rudder    0   0    4   49  rudder.cal    null.fil    null.alm
-
-Deflector 0   4    4   97  deflector.cal null.fil   null.alm
+Deflector 0   4    4  160  deflector.cal null.fil   null.alm
 rake      0   4    5   50  rake.cal      null.fil	null.alm
 forestay  0   4    6   58  forestay.cal  forestay.fil	null.alm
 
 [pulse]
-MHU_VA    0   4    1	9  mhuva.cal     null.fil	null.alm
+MHU_VA    0   4    1	9  mhuva.cal     null.fil	    null.alm
 portpad   0   3    2   63  portpad.cal   portpad.fil	null.alm
 stbdpad   0   3    1   64  stbdpad.cal   stbdpad.fil	null.alm
 
@@ -50,8 +50,16 @@ Boatspd2          86  null.cal      boatspd2.fil	null.alm
 WindToMast        96  mwa.cal       null.fil		null.alm
 TargetBSpd        32  null.cal      targbspd.fil	null.alm
 variation        110  null.cal      null.fil		null.alm
+MOB_Bearing      111  null.cal      null.fil        null.alm
+MOB_Distance     112  null.cal      null.fil        null.alm
 
 [uservars]
+Rake_tgt         161  17  rake_tgt.cal  rake_tgt.fil        null.alm
+Defl_tgt         162  17  defl_tgt.cal  defl_tgt.fil        null.alm
+Fsty_tgt         163  17  fsty_tgt.cal  fsty_tgt.fil        null.alm
+Rudd_tgt         164  17  rudd_tgt.cal  rudd_tgt.fil        null.alm
+Heel_tgt         165  17  heel_tgt.cal  heel_tgt.fil        null.alm
+Butt_tgt         166  17  butt_tgt.cal  butt_tgt.fil        null.alm
 
 ==============================================================================
 INSTRUCTIONS:
@@ -89,5 +97,3 @@ INSTRUCTIONS:
 
 Notes:
 1.  variable names MUST NOT contain spaces
-
-  

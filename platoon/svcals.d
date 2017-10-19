@@ -1,6 +1,6 @@
 Bspd_port  K  63  4  2  2
 Bspd_stbd  K  64  4  2  2
-Bspd_stbd  K  87  4  2  2
+Bspd_2     K  87  4  2  2
 Heading1   K  13  4  1  0
 Heading2   K  80  4  1  0
 heel1      K   0  3  1  0
@@ -20,4 +20,3 @@ Parameters:
 4: width of display field in chars
 5: number of decimal places
 6: calibration type (0 intercept, 1 slope, 2 inverted slope, 3 set value)
-

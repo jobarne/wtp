@@ -1,28 +1,28 @@
 10
 
-4  1  0  5
+4  9  0  5
 51  /AWA______M   10  0
 55  /TWS_____KT   17  1
 4d  /AWS_____KT   11  1
 59  /TWA______@   16  1
 
-4  1  1  5
+4  9  1  5
 57  /MWS_____KT    9  1
 5a  /MWA______@    8  0
 49  /HDG_____@M   55  0
 6d  /TWD_____@M   18  0
 
-2  1  3  1
+2  9  3  1
 41  /VS______KT   91  2
 7F  /VMG_____KT   19  2
 
-4  1  4  5
+4  9  4  5
 44  /YAW_RTE_@S   56  1
 9E  /PTCH_RTE@S   54  1
 3C  /ROLL_RTE@S   52  1
 75  /TIMER___MS   -1  0
 
-4  1  5  5
+4  9  5  5
 7e  /POL_SPD_KT   35  1
 7c  /REACHINGKT   36  1
 53  /TARG_TWA_@   34  0
@@ -42,11 +42,11 @@ e8  /DTW_GC__NM   40  1
 e6  /BTW_GC__@M   39  0
 ee  /XTE_____NM   68  2
 
-2  4  1  5
+2  9  1  5
 9B  /TRIM_____@   90  1
 34  /HEEL_____@   89  1
 
-4  4  2  9
+4  9  2  9
 ea  /COG_____@M   28  0
 eb  /SOG_____KT   27  1
 84  /TIDE_SET@M   43  0

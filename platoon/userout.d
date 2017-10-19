@@ -1,14 +1,7 @@
 2
 
-1  1  1
-1B  /WTP_HDG_@M 55  0
+1  9  1
 A1  /TARG_SPDKT 32  1  /POL_SPD_KT  35 1  /TARG_SPDKT  32 1  TARG_TWA_@  34 0  /TIMER___MS  -1 0
-
-4  2  0
-0B  /RUDDER__@_ 49  1
-38  /RAKE____@_ 50  2
-3A  /DEFLECT_P_ 97  0
-3B  /FORESTAY_T 58  2
 
 =======================================
 

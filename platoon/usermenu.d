@@ -8,15 +8,6 @@ REMOTE6     01b1  06  F5
 REMOTE7     01b1  07  F6
 REMOTE8     01b1  08  F7
 
-RUDDER__@_  0107  02  0B
-
-WTP_HDG_@M  0105  02  1B
-
-RIG         01b2  04
-RAKE____@_  01b2  01  38
-DEFLECT_%_  01b2  03  3A
-FORESTAY_T  01b2  01  3B
-
 SWITCH      01b3  01
 TARG_SPDKT  01b3  01  A1
 
@@ -53,5 +44,4 @@ TEMP   	        010a
 TIME   	        010b   
 MISC   	        010c   
 PARAMTR 	0112   
-EXTERNAL  	0113   
-
+EXTERNAL  	0113

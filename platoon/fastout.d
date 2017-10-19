@@ -1,7 +1,7 @@
 Channel 0
 Device 5
 
-Com 1 RS232 38400 N 8 1
+Com 1 RS232 4800 N 8 1
 
 10  A  4  0
 11  B  4  1

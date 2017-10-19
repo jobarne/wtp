@@ -39,9 +39,9 @@ dsp_up_ang S 6 4 0 80
 dsp_dn_ang S 7 4 0 120 
 TWS_factor S 8 4 2 1.00 
 mast_rot S 9 4 0 0 
-3D_enable S 10 4 0 0 
+3D_enable S 10 4 0 1 
 3D_damp S 11 5 3 0.970 
-sel_comp S 12 4 0 1 
+sel_comp S 12 4 0 2 
 sel_heel S 13 4 0 1 
 sel_trim S 14 4 0 1 
 sel_speed S 15 4 0 2 

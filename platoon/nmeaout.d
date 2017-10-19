@@ -1,7 +1,7 @@
 Channel 0
 Device 2
 
-Com 1 NMEA0183 4800 N 8 1
+Com 1 NMEA183 4800 N 8 1
 
 GLL	  1
 VTG	  1

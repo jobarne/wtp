@@ -60,7 +60,7 @@ Fsty_tgt         163  17  fsty_tgt.cal  fsty_tgt.fil        null.alm
 Rudd_tgt         164  17  rudd_tgt.cal  rudd_tgt.fil        null.alm
 Heel_tgt         165  17  heel_tgt.cal  heel_tgt.fil        null.alm
 Butt_tgt         166  17  butt_tgt.cal  butt_tgt.fil        null.alm
-HeDN_tgt         167  17  heDN_tgt.cal  heDN_tgt.fil        null.alm
+HeDN_tgt         167  17  hedn_tgt.cal  hedn_tgt.fil        null.alm
 Trim_tgt         168  17  trim_tgt.cal  trim_tgt.fil        null.alm
 
 ==============================================================================

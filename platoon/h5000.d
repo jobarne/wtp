@@ -54,3 +54,5 @@
 #Boatspeed
 168 27
 #Trim_tgt
+169 56
+#TrDN_tgt

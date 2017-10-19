@@ -8,6 +8,7 @@
 166 Butt_tgt           BtT     1    0    0
 167 HeDN_tgt           HDT     1    1    0
 168 Trim_tgt           TrT     1    1    0
+169 Trdn_tgt           TDT     1    1    0
 
 ======================================================
 number, long name, short name, decimals, abs val, type

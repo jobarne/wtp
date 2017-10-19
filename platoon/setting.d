@@ -30,11 +30,11 @@
 # ---------------------------------------------------------------------- 
 
 mast_height S 0 5 1 80 
-leeway_cal S 1 4 1 15 
+leeway_cal S 1 4 1 16 
 heel_enable S 2 4 0 1 
 gyro_enable S 3 4 0 1 
 mag_var S 4 5 1 0.0 
-dsp_time S 5 4 0 15 
+dsp_time S 5 4 0 3 
 dsp_up_ang S 6 4 0 80 
 dsp_dn_ang S 7 4 0 120 
 TWS_factor S 8 4 2 1.00 

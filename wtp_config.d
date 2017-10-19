@@ -11,7 +11,7 @@ Dir platoon
 #fastnet_rx on
 #displays incoming fastnet messages into the wtp3, halcyon 2000 compass for example
 
-fastnet_tx on
+#fastnet_tx on
 
 #displays the fastnet messages going out to the network
 

@@ -1,7 +1,7 @@
 Channel 0
 Device 2
 
-Com 2 nmea183 4800 N 8 1
+Com 2 NMEA0183 4800 N 8 1
 
 SDDBT    1   67  depth.cal    null.fil  null.alm 
 YXMTW    1   60  seatemp.cal  null.fil  null.alm

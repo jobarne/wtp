@@ -1,7 +1,7 @@
 Channel 0
 Device 1
 
-Com 1 rs232 4800 N 8 1
+Com 1 RS232 4800 N 8 1
 
 Offset 0.0
 Bow 52.0

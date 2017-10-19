@@ -50,3 +50,5 @@
 #HlDN_tgt
 89  25
 #Heel
+91  26
+#Boatspeed

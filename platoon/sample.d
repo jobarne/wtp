@@ -11,7 +11,7 @@ MHU_A_B   0   4	   1    7  null.cal	     null.fil	null.alm
 MHU_A_G   0   4    2    6  null.cal      null.fil	null.alm
 MHU_A_R   0   4    3    5  null.cal      null.fil	null.alm
 
-Deflector 0   4    4  160  deflector.cal null.fil   null.alm
+Deflector 0   4    4  160  deflector.cal deflector.fil null.alm
 rake      0   4    5   50  rake.cal      null.fil	null.alm
 forestay  0   4    6   58  forestay.cal  forestay.fil	null.alm
 

@@ -8,7 +8,7 @@ trim1      K  57  3  1  0
 MHU_angle  K   8  3  0  0
 depth      K  67  4  1  0
 Rake       K  50  3  2  0
-Deflector  K  97  4  0  0
+Deflector  K 160  4  0  0
 Rudder     K  49  4  1  0
 
 ==============================================

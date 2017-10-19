@@ -30,7 +30,7 @@
 # ---------------------------------------------------------------------- 
 
 mast_height S 0 5 1 80 
-leeway_cal S 1 4 1 15 
+leeway_cal S 1 4 1 12 
 heel_enable S 2 4 0 1 
 gyro_enable S 3 4 0 1 
 mag_var S 4 5 1 0.0 
@@ -39,7 +39,7 @@ dsp_up_ang S 6 4 0 80
 dsp_dn_ang S 7 4 0 120 
 TWS_factor S 8 4 2 1.00 
 mast_rot S 9 4 0 0 
-3D_enable S 10 4 0 0 
+3D_enable S 10 4 0 1 
 3D_damp S 11 5 3 0.970 
 sel_comp S 12 4 0 1 
 sel_heel S 13 4 0 1 
@@ -49,3 +49,4 @@ sel_GPS S 16 4 0 1
 log_miles S 17 5 2 0 
 bspd_switch S 18 4 0 0 
 datalog S 19 0 0 0 
+

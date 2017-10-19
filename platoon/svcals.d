@@ -20,3 +20,4 @@ Parameters:
 4: width of display field in chars
 5: number of decimal places
 6: calibration type (0 intercept, 1 slope, 2 inverted slope, 3 set value)
+

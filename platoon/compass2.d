@@ -1,7 +1,7 @@
 Channel 0 
 Device 1
 
-Com 1 RS232 4800 N 8 1
+Com 1 NMEA0183 4800 N 8 1
 
 heading2 1 80 heading2.cal  heading2.fil  null.alm
 
